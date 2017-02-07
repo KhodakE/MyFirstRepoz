@@ -11,6 +11,7 @@ namespace MFirstRepoz
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jay");
+            Console.WriteLine("Yes");
         }
     }
 }
