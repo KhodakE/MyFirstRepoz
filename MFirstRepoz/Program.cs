@@ -13,6 +13,10 @@ namespace MFirstRepoz
             Console.WriteLine("Hello Jay");
             Console.WriteLine("Yes");
             Console.WriteLine("No");
+
+            TestClass tc = new TestClass();
+            tc.Name = "Hello";
+            Console.WriteLine(tc.Name);
         }
     }
 }
